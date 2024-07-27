@@ -24,7 +24,7 @@ function Projects() {
         />
         <ProjectCard
           src={githubfinder}
-          link="https://yatharth-githubfinder.netlify.app/"
+          link="https://github-rep-finder.netlify.app/"
           h3="Github Finder"
           p="Github User Search App"
         />
