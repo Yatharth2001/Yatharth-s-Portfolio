@@ -18,7 +18,7 @@ function Projects() {
         />
         <ProjectCard
           src={cinechum}
-          link="https://yatharthshah-cinechum.netlify.app/"
+          link="https://cinechum.netlify.app/"
           h3="CineChum"
           p="Movie Recommendation App"
         />
