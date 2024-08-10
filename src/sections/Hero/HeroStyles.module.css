@@ -16,7 +16,7 @@
 }
 
 .hero:hover {
-  animation: none; /* Stop animation on hover to prevent conflict */
+  animation: none; 
   transform: scale(1.1) rotateY(10deg);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
@@ -80,13 +80,11 @@ a {
   align-self: center;
 }
 
-a img {
-  width: 30px;
-}
+
 
 button {
   background-color: var(--btn-color);
-  color: var(--btn-text-color);
+  color:#7a2020;
   border: none;
   border-radius: 20px;
   width: 126px;
